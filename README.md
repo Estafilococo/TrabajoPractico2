@@ -20,13 +20,8 @@ Abre el notebook con Jupyter:
 jupyter notebook TP2.ipynb
 ```
 
-Asegúrate de tener el archivo de video en la misma carpeta.
-
 ## Dependencias principales
 - numpy
 - opencv-python
 - matplotlib
 - tqdm
-
-## Autor
-[Tu Nombre]
