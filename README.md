@@ -15,5 +15,5 @@ Este repositorio contiene el código y los recursos necesarios para ejecutar el 
    ```
 
 ## Notas
-- No es necesario clonar la carpeta `venv`, ya que puedes recrearla con `requirements.txt`.
+- La carpeta `venv` no está incluida en el repositorio. Puedes crear tu propio entorno virtual ejecutando los comandos indicados arriba y luego instalar las dependencias con `requirements.txt`.
 - Si tienes dudas o problemas, abre un issue en este repositorio.
