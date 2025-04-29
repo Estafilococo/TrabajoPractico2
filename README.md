@@ -1,15 +1,32 @@
 # Trabajo Práctico 2
 
-Este repositorio contiene el código y los recursos necesarios para ejecutar el Trabajo Práctico 2.
+Este repositorio contiene el notebook y los archivos necesarios para ejecutar el análisis de nitidez en video.
 
-## Instalación
+## Archivos
+- `TP2.ipynb`: Notebook principal con el código y explicación.
+- `focus_video.mov`: Video de ejemplo para procesar.
 
-1. Crea un entorno virtual (opcional, pero recomendado):
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate
-   ```
-2. Instala las dependencias:
-   ```bash
-   pip install -r requirements.txt
-   ```
+## Requisitos
+
+Instala las dependencias con:
+```bash
+pip install -r requirements.txt
+```
+
+## Uso
+
+Abre el notebook con Jupyter:
+```bash
+jupyter notebook TP2.ipynb
+```
+
+Asegúrate de tener el archivo de video en la misma carpeta.
+
+## Dependencias principales
+- numpy
+- opencv-python
+- matplotlib
+- tqdm
+
+## Autor
+[Tu Nombre]
