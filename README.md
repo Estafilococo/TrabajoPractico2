@@ -14,10 +14,6 @@ Este repositorio contiene el código y los recursos necesarios para ejecutar el 
    pip install -r requirements.txt
    ```
 
-## Uso
-
-Ejecuta el código principal según las instrucciones de tu TP.
-
 ## Notas
 - No es necesario clonar la carpeta `venv`, ya que puedes recrearla con `requirements.txt`.
 - Si tienes dudas o problemas, abre un issue en este repositorio.
