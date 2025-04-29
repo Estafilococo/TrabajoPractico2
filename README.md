@@ -15,5 +15,5 @@ Este repositorio contiene el código y los recursos necesarios para ejecutar el 
    ```
 
 ## Notas
-- La carpeta `venv` no está incluida en el repositorio. Puedes crear tu propio entorno virtual ejecutando los comandos indicados arriba y luego instalar las dependencias con `requirements.txt`.
+- Para aislar las dependencias del proyecto, se recomienda crear un entorno virtual como se indica arriba y luego instalar los paquetes usando `requirements.txt`.
 - Si tienes dudas o problemas, abre un issue en este repositorio.
