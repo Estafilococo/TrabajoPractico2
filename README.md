@@ -13,7 +13,3 @@ Este repositorio contiene el código y los recursos necesarios para ejecutar el 
    ```bash
    pip install -r requirements.txt
    ```
-
-## Notas
-- Para aislar las dependencias del proyecto, se recomienda crear un entorno virtual como se indica arriba y luego instalar los paquetes usando `requirements.txt`.
-- Si tienes dudas o problemas, abre un issue en este repositorio.
